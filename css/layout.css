@@ -548,6 +548,13 @@ ul#nav li.current a {
 #portfolio-wrapper .columns {
   margin-bottom: 36px;
 }
+#portfolio-wrapper-logo .columns {
+  margin-bottom: 36px;
+}
+#portfolio-wrapper-logo {
+  padding-top: 50px;
+  background-color: white;
+}
 .portfolio-item .item-wrap {
   background: #fff;
   overflow: hidden;
@@ -1203,7 +1210,69 @@ footer .social-links li:first-child {
 }
 
 .logo_images {
-  width: 90%;
+  width: 100%;
   display: block;
-  margin: 0px auto;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+}
+
+#jm {
+  width: 60%;
+}
+
+#nor {
+  width: 60%;
+}
+
+#va {
+  width: 35%;
+}
+
+#hyatt {
+  width: 90%;
+}
+
+#earth {
+  width: 80%;
+}
+
+#pl {
+  width: 50%;
+}
+
+#ml {
+  width: 70%;
+}
+
+#gf {
+  width: 60%;
+}
+
+#tl {
+  width: 50%;
+}
+
+#fm {
+  width: 80%;
+}
+
+#iwc {
+  width: 80%;
+}
+
+#av {
+  width: 70%;
+}
+
+#ff {
+  width: 70%;
+}
+
+#tk {
+  width: 90%;
+}
+
+#is {
+  width: 12%;
 }
